@@ -8,5 +8,8 @@
 </head>
 <body>
     <p>Uspješno ste ulogovani!</p>
+    <form method="POST" action="logout.php">
+        <button type="submit">Odjavi se</button>
+    </form>
 </body>
 </html>
